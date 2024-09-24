@@ -2,6 +2,8 @@
 
 This project focuses on causal learning from textual data, where the input consists of pairs of texts, and the task is to determine if a causal relationship exists between them. The process is structured into four key stages. First, the model identifies correlations between variables, analyzing if textual features suggest a connection. Second, a causal skeleton is built, representing the potential relationships without considering their direction. Third, the model assesses causal directionality, distinguishing cause from effect within the identified skeleton. Finally, we evaluate the model's reasoning and explainability, ensuring that it can not only uncover causal patterns but also provide transparent, interpretable explanations for its predictions.
 
+We are particularly interested in exploring causal relationships between complex events that are domain-specific, moving beyond simple patterns commonly identified by conjunctions like because, due to, as a consequence of, and others. These simplistic linguistic cues may capture basic cause-and-effect interactions, but they often fail to represent the nuanced, context-dependent relationships between complex events that arise in real-world scenarios.
+
 # Datasets
 
 ## HeadlineCause: A Dataset of News Headlines for Detecting Causalities
