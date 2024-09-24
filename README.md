@@ -38,7 +38,7 @@ Examples:
 
 
 
-### FinCausal-2023 Shared Task: Financial Document Causality Detection
+### FinCausal Shared Task: Financial Document Causality Detection
 
 _Description_: This task focuses on determining causality associated with a quantified fact. An event is defined as the arising or emergence of a new object or context regarding a previous situation. So, the task will emphasize the detection of causality associated with the transformation of financial objects embedded in quantified facts. The aim is to identify, in a causal sentence or text block, the causal elements and the consequential ones.
 
