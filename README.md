@@ -26,13 +26,16 @@ _Description_: target application is risk management and situation awareness, wh
 - **Download**: [https://github.com/GoloMarcos/eCOLGAT/blob/main/datasets/risk-models-benchmark-v1.csv](https://github.com/GoloMarcos/eCOLGAT/blob/main/datasets/risk-models-benchmark-v1.csv)
 
 
-Examples: (cause -> effect)
+Examples: 
 
-- currency appreciation against US dollar -> low inflation
-- decreased local protectionism -> decreased tariffs on foreign firms
-- decreasing government and political stability -> decrease in government spending (infrastructure, education, public benefits)
-- OPEC's agreement to raise production quota -> Low oil prices
-- Expansionary fiscal policy -> increased government spending
+| Cause                                            | Effect                                                       |
+|--------------------------------------------------|---------------------------------------------------------------|
+| Currency appreciation against US dollar          | Low inflation                                                 |
+| Decreased local protectionism                    | Decreased tariffs on foreign firms                            |
+| Decreasing government and political stability    | Decrease in government spending (infrastructure, education, public benefits) |
+| OPEC's agreement to raise production quota       | Low oil prices                                                |
+| Expansionary fiscal policy                       | Increased government spending                                 |
+
 
 
 ### FinCausal-2023 Shared Task: Financial Document Causality Detection
